@@ -89,7 +89,7 @@
 ```shell
 npm install element-ui -S
 ```
-
+ 
 ## Quick Start
 ``` javascript
 import Vue from 'vue'
